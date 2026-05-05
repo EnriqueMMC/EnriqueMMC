@@ -17,7 +17,7 @@ Greetings, traveler. I am a developer drawn to the gravity of complex problems. 
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,python,react,nextjs,nodejs,docker,aws,git&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=js,ts,java,react,html,css,tailwind,docker,git&theme=dark" />
   </a>
 </div>
 
@@ -27,7 +27,6 @@ Greetings, traveler. I am a developer drawn to the gravity of complex problems. 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EnriqueMMC&theme=tokyonight" alt="GitHub Stats" />
   <br/><br/>
   <img src="https://streak-stats.demolab.com/?user=EnriqueMMC&theme=tokyonight&hide_border=true&background=0d1117&ring=00f3ff&fire=7000ff&currStreakLabel=00f3ff" alt="GitHub Streak" />
-</div>
 
 ## 🛸 Latest Transmissions (Projects)
 

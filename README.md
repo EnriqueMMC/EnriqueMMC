@@ -24,8 +24,8 @@ Greetings, traveler. I am a developer drawn to the gravity of complex problems. 
 ## 🌠 Telemetry Readouts (Stats)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=tokyonight&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00f3ff&icon_color=7000ff" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&ring=00f3ff&fire=7000ff&currStreakLabel=00f3ff" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=EnriqueMMC&theme=tokyonight&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00f3ff&icon_color=7000ff" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EnriqueMMC&theme=tokyonight&hide_border=true&background=0d1117&ring=00f3ff&fire=7000ff&currStreakLabel=00f3ff" alt="GitHub Streak" />
 </div>
 
 ## 🛸 Latest Transmissions (Projects)
